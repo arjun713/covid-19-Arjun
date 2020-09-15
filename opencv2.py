@@ -29,3 +29,9 @@ while (1):
 
 cv2.destroyAllWindows()
 cap.release()
+
+
+
+output
+
+
